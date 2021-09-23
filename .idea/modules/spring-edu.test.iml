@@ -18,6 +18,8 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-context:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-core:5.3.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.10.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.10.2" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.8.0" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.20.0" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-aop:5.3.10" level="project" />
@@ -25,6 +27,7 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-expression:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:5.3.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.10.2" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.8.0" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.8.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apiguardian:apiguardian-api:1.1.2" level="project" />

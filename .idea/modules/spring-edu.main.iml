@@ -11,6 +11,13 @@
     <facet type="Spring" name="Spring">
       <configuration />
     </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <datasource-mapping />
+        <naming-strategy-map />
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../build/classes/java/main" />
@@ -24,10 +31,13 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-context:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-core:5.3.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.10.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.10.2" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-aop:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-web:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-expression:5.3.10" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:5.3.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.10.2" level="project" />
   </component>
 </module>
